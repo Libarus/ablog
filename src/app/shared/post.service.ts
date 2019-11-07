@@ -19,6 +19,7 @@ export class PostService {
                     date: new Date(post.date)
                 }
             }));
+
     }
 
 }
